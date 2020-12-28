@@ -4,19 +4,19 @@
     "url": "https://dealer.api.leisurevans.com",
     "icon": "https://favicons.githubusercontent.com/dealer.api.leisurevans.com",
     "slug": "ltv-dealer-api",
-    "status": "down",
-    "uptime": "10.09%",
-    "uptimeDay": "10.09%",
-    "uptimeWeek": "10.09%",
-    "uptimeMonth": "10.09%",
-    "uptimeYear": "10.09%",
-    "time": 360,
-    "timeDay": 360,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "status": "up",
+    "uptime": "37.38%",
+    "uptimeDay": "37.38%",
+    "uptimeWeek": "37.38%",
+    "uptimeMonth": "37.38%",
+    "uptimeYear": "37.38%",
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.leisurevans.com",
     "icon": "https://favicons.githubusercontent.com/api.leisurevans.com",
     "slug": "ltv-owners-api",
-    "status": "down",
-    "uptime": "7.34%",
-    "uptimeDay": "7.34%",
-    "uptimeWeek": "7.34%",
-    "uptimeMonth": "7.34%",
-    "uptimeYear": "7.34%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "status": "up",
+    "uptime": "40.50%",
+    "uptimeDay": "40.50%",
+    "uptimeWeek": "40.50%",
+    "uptimeMonth": "40.50%",
+    "uptimeYear": "40.50%",
+    "time": 571,
+    "timeDay": 571,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 8
     }
   },
   {
