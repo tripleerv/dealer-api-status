@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/dealer.api.leisurevans.com",
     "slug": "ltv-dealer-api",
     "status": "up",
-    "uptime": "37.38%",
-    "uptimeDay": "37.38%",
-    "uptimeWeek": "37.38%",
-    "uptimeMonth": "37.38%",
-    "uptimeYear": "37.38%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {
-      "2020-12-28": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LTV Owners API",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/api.leisurevans.com",
     "slug": "ltv-owners-api",
     "status": "up",
-    "uptime": "40.50%",
-    "uptimeDay": "40.50%",
-    "uptimeWeek": "40.50%",
-    "uptimeMonth": "40.50%",
-    "uptimeYear": "40.50%",
-    "time": 571,
-    "timeDay": 571,
-    "timeWeek": 571,
-    "timeMonth": 571,
-    "timeYear": 571,
-    "dailyMinutesDown": {
-      "2020-12-28": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LTV Services API",
