@@ -10,13 +10,15 @@ sites:
     url: https://api.leisurevans.com
   - name: LTV Services API
     url: http://services.tripleerv.com
+  - name: LTV Website
+    url: https://leisurevans.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.triplee.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/tripleerv/tripleerv-wp/master/img/eee-logo-mobile.svg
+  logoUrl: https://tripleerv.com/wp-content/themes/tripleerv-wp/img/eee-logo-mobile.svg
   name: Triple E RV Status
   introTitle: 
   introMessage: 
