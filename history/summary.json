@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/dealer.api.leisurevans.com",
     "slug": "ltv-dealer-api",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 509,
-    "timeDay": 608,
-    "timeWeek": 519,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 508,
+    "timeDay": 504,
+    "timeWeek": 498,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2020-12-28": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 497,
-    "timeDay": 470,
-    "timeWeek": 499,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "time": 495,
+    "timeDay": 463,
+    "timeWeek": 501,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2020-12-28": 8
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 188,
-    "timeWeek": 182,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "time": 179,
+    "timeDay": 145,
+    "timeWeek": 176,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 1010,
-    "timeWeek": 802,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "time": 800,
+    "timeDay": 736,
+    "timeWeek": 808,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   }
 ]
