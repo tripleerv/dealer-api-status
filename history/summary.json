@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 399,
-    "timeDay": 334,
-    "timeWeek": 252,
-    "timeMonth": 250,
-    "timeYear": 399,
+    "time": 395,
+    "timeDay": 85,
+    "timeWeek": 241,
+    "timeMonth": 236,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2021-02-09": 6,
       "2020-12-28": 9
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 513,
-    "timeDay": 194,
-    "timeWeek": 506,
-    "timeMonth": 486,
-    "timeYear": 513,
+    "time": 512,
+    "timeDay": 493,
+    "timeWeek": 439,
+    "timeMonth": 480,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2020-12-28": 8
     }
@@ -46,16 +46,16 @@
     "icon": "https://favicons.githubusercontent.com/services.tripleerv.com",
     "slug": "ltv-services-api",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.89%",
-    "time": 280,
-    "timeDay": 163,
-    "timeWeek": 202,
-    "timeMonth": 182,
-    "timeYear": 280,
+    "uptimeYear": "99.90%",
+    "time": 278,
+    "timeDay": 152,
+    "timeWeek": 191,
+    "timeMonth": 181,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2021-02-15": 109
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 626,
-    "timeWeek": 683,
+    "time": 703,
+    "timeDay": 606,
+    "timeWeek": 653,
     "timeMonth": 670,
-    "timeYear": 705,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   }
 ]
