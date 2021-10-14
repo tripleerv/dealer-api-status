@@ -74,9 +74,9 @@
     "url": "https://leisurevans.com",
     "icon": "https://favicons.githubusercontent.com/leisurevans.com",
     "slug": "ltv-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -86,6 +86,7 @@
     "timeMonth": 3612,
     "timeYear": 1517,
     "dailyMinutesDown": {
+      "2021-10-14": 0,
       "2021-07-21": 12,
       "2021-07-16": 7,
       "2021-06-27": 12
