@@ -8,8 +8,6 @@ sites:
     url: https://dealer.api.leisurevans.com
   - name: LTV Owners API
     url: https://api.leisurevans.com
-  - name: LTV Services API
-    url: http://services.tripleerv.com
   - name: LTV Website
     url: https://leisurevans.com
 
