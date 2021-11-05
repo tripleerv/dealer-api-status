@@ -11,12 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 281,
-    "timeDay": 84,
-    "timeWeek": 173,
+    "timeDay": 235,
+    "timeWeek": 190,
     "timeMonth": 205,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2021-07-05": 9,
       "2021-04-21": 13,
       "2021-03-15": 15,
       "2021-02-09": 6,
@@ -34,15 +33,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 408,
-    "timeDay": 122,
-    "timeWeek": 388,
+    "time": 407,
+    "timeDay": 220,
+    "timeWeek": 340,
     "timeMonth": 382,
-    "timeYear": 408,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2021-07-07": 10,
-      "2021-04-28": 6,
-      "2021-04-21": 12,
       "2021-03-15": 15,
       "2020-12-28": 8
     }
@@ -53,21 +49,16 @@
     "icon": "https://favicons.githubusercontent.com/leisurevans.com",
     "slug": "ltv-website",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1418,
-    "timeDay": 324,
-    "timeWeek": 210,
-    "timeMonth": 2052,
-    "timeYear": 1418,
-    "dailyMinutesDown": {
-      "2021-10-14": 8,
-      "2021-07-21": 12,
-      "2021-07-16": 7,
-      "2021-06-27": 12
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1414,
+    "timeDay": 102,
+    "timeWeek": 201,
+    "timeMonth": 1978,
+    "timeYear": 1414,
+    "dailyMinutesDown": {}
   }
 ]
