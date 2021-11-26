@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 126,
-    "timeWeek": 366,
-    "timeMonth": 212,
+    "timeDay": 457,
+    "timeWeek": 394,
+    "timeMonth": 220,
     "timeYear": 278,
     "dailyMinutesDown": {}
   },
@@ -24,14 +24,14 @@
     "slug": "ltv-owners-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 8829,
-    "timeWeek": 4336,
-    "timeMonth": 1715,
+    "timeDay": 398,
+    "timeWeek": 4360,
+    "timeMonth": 1712,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2021-11-24": 43
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1341,
-    "timeDay": 183,
+    "time": 1337,
+    "timeDay": 85,
     "timeWeek": 132,
-    "timeMonth": 168,
-    "timeYear": 1341,
+    "timeMonth": 167,
+    "timeYear": 1337,
     "dailyMinutesDown": {}
   }
 ]
