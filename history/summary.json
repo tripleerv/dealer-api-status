@@ -6,18 +6,16 @@
     "slug": "ltv-dealer-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 3315,
-    "timeWeek": 1215,
-    "timeMonth": 522,
+    "timeDay": 3381,
+    "timeWeek": 1231,
+    "timeMonth": 528,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2021-12-07": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LTV Owners API",
@@ -26,17 +24,16 @@
     "slug": "ltv-owners-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 553,
-    "timeDay": 2018,
-    "timeWeek": 1052,
-    "timeMonth": 1876,
+    "timeDay": 2066,
+    "timeWeek": 1085,
+    "timeMonth": 1879,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2021-12-07": 10,
       "2021-11-24": 43
     }
   },
@@ -51,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1299,
-    "timeDay": 84,
-    "timeWeek": 109,
+    "time": 1296,
+    "timeDay": 98,
+    "timeWeek": 105,
     "timeMonth": 134,
-    "timeYear": 1299,
+    "timeYear": 1296,
     "dailyMinutesDown": {}
   }
 ]
