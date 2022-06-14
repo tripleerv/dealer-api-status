@@ -44,17 +44,15 @@
     "slug": "ltv-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1132,
     "timeDay": 2752,
     "timeWeek": 2877,
     "timeMonth": 2823,
     "timeYear": 1178,
-    "dailyMinutesDown": {
-      "2022-06-13": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
