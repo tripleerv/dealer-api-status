@@ -42,18 +42,19 @@
     "url": "https://leisurevans.com",
     "icon": "https://favicons.githubusercontent.com/leisurevans.com",
     "slug": "ltv-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1182,
-    "timeDay": 4323,
-    "timeWeek": 2903,
-    "timeMonth": 2871,
-    "timeYear": 1227,
+    "time": 1212,
+    "timeDay": 9861,
+    "timeWeek": 4462,
+    "timeMonth": 3210,
+    "timeYear": 1265,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-14": 40
     }
   }
