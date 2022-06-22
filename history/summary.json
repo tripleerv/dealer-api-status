@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 214,
-    "timeWeek": 210,
-    "timeMonth": 383,
+    "timeDay": 123,
+    "timeWeek": 211,
+    "timeMonth": 376,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 567,
-    "timeDay": 582,
-    "timeWeek": 627,
-    "timeMonth": 747,
-    "timeYear": 615,
+    "time": 566,
+    "timeDay": 465,
+    "timeWeek": 592,
+    "timeMonth": 745,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2021-11-24": 43
     }
@@ -44,17 +44,17 @@
     "slug": "ltv-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 1227,
-    "timeDay": 7107,
-    "timeWeek": 4444,
-    "timeMonth": 3268,
-    "timeYear": 1281,
+    "time": 1234,
+    "timeDay": 7101,
+    "timeWeek": 4504,
+    "timeMonth": 3313,
+    "timeYear": 1289,
     "dailyMinutesDown": {
-      "2022-06-21": 49,
+      "2022-06-21": 40,
       "2022-06-14": 40
     }
   }
