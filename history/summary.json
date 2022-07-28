@@ -22,18 +22,19 @@
     "url": "https://api.leisurevans.com",
     "icon": "https://favicons.githubusercontent.com/api.leisurevans.com",
     "slug": "ltv-owners-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 575,
+    "time": 576,
     "timeDay": 737,
     "timeWeek": 616,
     "timeMonth": 599,
     "timeYear": 644,
     "dailyMinutesDown": {
+      "2022-07-28": 0,
       "2021-11-24": 43
     }
   },
