@@ -22,19 +22,19 @@
     "url": "https://api.leisurevans.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.leisurevans.com.ico",
     "slug": "ltv-owners-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 730,
-    "timeDay": 563,
-    "timeWeek": 650,
-    "timeMonth": 684,
+    "timeDay": 545,
+    "timeWeek": 635,
+    "timeMonth": 678,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2023-03-18": 0
+      "2023-03-18": 7
     }
   },
   {
