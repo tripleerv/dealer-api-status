@@ -1,7 +1,7 @@
 url: https://api.leisurevans.com
-status: up
-code: 200
-responseTime: 502
-lastUpdated: 2023-06-12T23:06:04.978Z
+status: down
+code: 500
+responseTime: 8040
+lastUpdated: 2023-06-13T18:50:19.585Z
 startTime: Mon Dec 28 2020 20:59:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
