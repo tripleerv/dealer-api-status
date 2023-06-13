@@ -4,18 +4,20 @@
     "url": "https://dealer.api.leisurevans.com",
     "icon": "https://icons.duckduckgo.com/ip3/dealer.api.leisurevans.com.ico",
     "slug": "ltv-dealer-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 838,
-    "timeWeek": 491,
-    "timeMonth": 496,
-    "timeYear": 426,
-    "dailyMinutesDown": {}
+    "time": 395,
+    "timeDay": 2939,
+    "timeWeek": 1060,
+    "timeMonth": 638,
+    "timeYear": 439,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "LTV Owners API",
@@ -24,9 +26,9 @@
     "slug": "ltv-owners-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 720,
     "timeDay": 5790,
@@ -34,7 +36,7 @@
     "timeMonth": 1348,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 17
     }
   },
   {
