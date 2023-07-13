@@ -44,9 +44,9 @@
     "slug": "ltv-website",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2705,
     "timeDay": 868,
@@ -54,7 +54,7 @@
     "timeMonth": 2191,
     "timeYear": 2770,
     "dailyMinutesDown": {
-      "2023-07-13": 0,
+      "2023-07-13": 9,
       "2022-08-10": 17
     }
   }
