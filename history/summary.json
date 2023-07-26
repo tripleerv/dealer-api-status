@@ -6,17 +6,17 @@
     "slug": "ltv-dealer-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 94,
-    "timeWeek": 519,
-    "timeMonth": 472,
-    "timeYear": 461,
+    "timeDay": 238,
+    "timeWeek": 502,
+    "timeMonth": 469,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-07-26": 9
+      "2023-07-26": 0
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "ltv-owners-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 733,
     "timeDay": 602,
@@ -36,7 +36,6 @@
     "timeMonth": 662,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2023-07-26": 9,
       "2023-06-13": 45
     }
   },
