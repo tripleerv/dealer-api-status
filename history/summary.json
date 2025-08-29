@@ -6,17 +6,16 @@
     "slug": "ltv-dealer-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 515,
-    "timeDay": 544,
-    "timeWeek": 760,
-    "timeMonth": 610,
-    "timeYear": 514,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 516,
+    "timeDay": 515,
+    "timeWeek": 741,
+    "timeMonth": 604,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-08-29": 10,
       "2024-11-21": 17
     }
   },
@@ -27,18 +26,16 @@
     "slug": "ltv-owners-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 452,
-    "timeWeek": 656,
-    "timeMonth": 496,
+    "time": 556,
+    "timeDay": 418,
+    "timeWeek": 636,
+    "timeMonth": 490,
     "timeYear": 517,
-    "dailyMinutesDown": {
-      "2025-08-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LTV Website",
@@ -51,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1618,
-    "timeDay": 250,
-    "timeWeek": 247,
-    "timeMonth": 227,
-    "timeYear": 1289,
+    "time": 1623,
+    "timeDay": 2417,
+    "timeWeek": 789,
+    "timeMonth": 359,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2025-04-10": 17,
       "2025-04-09": 26,
@@ -66,5 +63,23 @@
       "2024-09-14": 28,
       "2024-09-07": 28
     }
+  },
+  {
+    "name": "EEE Order API",
+    "url": "https://order.tripleerv.com/api/v2/schedule/statistics",
+    "icon": "https://icons.duckduckgo.com/ip3/order.tripleerv.com.ico",
+    "slug": "eee-order-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
+    "dailyMinutesDown": {}
   }
 ]
