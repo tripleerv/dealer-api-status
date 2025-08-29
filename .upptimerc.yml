@@ -6,10 +6,18 @@ repo: dealer-api-status # Your GitHub repository name
 sites:
   - name: LTV Dealer API
     url: https://dealer.api.leisurevans.com
+    headers:
+      - "x-vercel-protection-bypass": $VERCEL_SECRET
   - name: LTV Owners API
     url: https://api.leisurevans.com
+    headers:
+      - "x-vercel-protection-bypass": $VERCEL_SECRET
   - name: LTV Website
     url: https://leisurevans.com
+  - name: EEE Order API
+    url: https://order.tripleerv.com/api/v2/schedule/statistics
+    headers:
+      - "x-apikey": $ORDER_API_KEY
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
