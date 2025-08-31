@@ -6,9 +6,9 @@
     "slug": "ltv-dealer-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 479,
@@ -16,7 +16,6 @@
     "timeMonth": 620,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2025-08-30": 7,
       "2024-11-21": 17
     }
   },
@@ -27,18 +26,16 @@
     "slug": "ltv-owners-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
     "timeDay": 474,
     "timeWeek": 623,
     "timeMonth": 501,
     "timeYear": 516,
-    "dailyMinutesDown": {
-      "2025-08-30": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LTV Website",
