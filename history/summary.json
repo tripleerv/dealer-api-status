@@ -6,17 +6,16 @@
     "slug": "ltv-dealer-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 567,
-    "timeWeek": 694,
-    "timeMonth": 614,
+    "timeDay": 460,
+    "timeWeek": 683,
+    "timeMonth": 608,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2025-09-01": 7,
       "2024-11-21": 17
     }
   },
@@ -27,18 +26,16 @@
     "slug": "ltv-owners-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 468,
-    "timeWeek": 608,
-    "timeMonth": 514,
+    "timeDay": 618,
+    "timeWeek": 615,
+    "timeMonth": 516,
     "timeYear": 516,
-    "dailyMinutesDown": {
-      "2025-09-01": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LTV Website",
@@ -51,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1613,
-    "timeDay": 201,
-    "timeWeek": 767,
+    "time": 1610,
+    "timeDay": 153,
+    "timeWeek": 761,
     "timeMonth": 368,
-    "timeYear": 1270,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2025-04-10": 17,
       "2025-04-09": 26,
@@ -78,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 504,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "time": 400,
+    "timeDay": 318,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   }
 ]
