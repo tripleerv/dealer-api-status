@@ -69,19 +69,19 @@
     "url": "https://order.tripleerv.com/api/v2/schedule/statistics",
     "icon": "https://icons.duckduckgo.com/ip3/order.tripleerv.com.ico",
     "slug": "eee-order-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 520,
-    "timeWeek": 420,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 430,
+    "timeDay": 517,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2025-09-19": 0
+      "2025-09-19": 24
     }
   }
 ]
