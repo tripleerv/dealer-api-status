@@ -50,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1427,
     "timeDay": 188,
     "timeWeek": 191,
     "timeMonth": 373,
-    "timeYear": 1116,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2025-04-10": 17,
       "2025-04-09": 26,
@@ -69,17 +69,19 @@
     "url": "https://order.tripleerv.com/api/v2/schedule/statistics",
     "icon": "https://icons.duckduckgo.com/ip3/order.tripleerv.com.ico",
     "slug": "eee-order-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 701,
-    "timeWeek": 432,
-    "timeMonth": 430,
-    "timeYear": 430,
-    "dailyMinutesDown": {}
+    "time": 426,
+    "timeDay": 520,
+    "timeWeek": 420,
+    "timeMonth": 426,
+    "timeYear": 426,
+    "dailyMinutesDown": {
+      "2025-09-19": 0
+    }
   }
 ]
