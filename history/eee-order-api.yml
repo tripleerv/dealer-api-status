@@ -1,7 +1,7 @@
 url: https://order.tripleerv.com/api/v2/schedule/statistics
-status: up
-code: 200
-responseTime: 403
-lastUpdated: 2026-05-20T23:33:51.342Z
+status: down
+code: 500
+responseTime: 15271
+lastUpdated: 2026-05-21T21:18:03.279Z
 startTime: 2025-08-29T14:11:36.062Z
 generator: Upptime <https://github.com/upptime/upptime>
