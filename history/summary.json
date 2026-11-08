@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dealer.api.leisurevans.com.ico",
     "slug": "ltv-dealer-api",
     "status": "down",
-    "uptime": "97.79%",
+    "uptime": "97.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.04%",
+    "uptimeYear": "86.97%",
     "time": 477,
     "timeDay": 185,
     "timeWeek": 108,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2025-11-30": 44,
       "2025-12-13": 39,
-      "2026-11-08": 12,
+      "2026-11-08": 405,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -96,9 +96,9 @@
     "url": "https://leisurevans.com",
     "icon": "https://icons.duckduckgo.com/ip3/leisurevans.com.ico",
     "slug": "ltv-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -110,7 +110,8 @@
     "dailyMinutesDown": {
       "2025-11-18": 125,
       "2026-01-26": 47,
-      "2026-01-25": 20
+      "2026-01-25": 20,
+      "2026-11-08": 0
     }
   },
   {
